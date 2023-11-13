@@ -1,0 +1,14 @@
+C:\Users\viktor.mrakota\source\repos\domaciukol\domaciukol\bin\Debug\net6.0\domaciukol.exe
+C:\Users\viktor.mrakota\source\repos\domaciukol\domaciukol\bin\Debug\net6.0\domaciukol.deps.json
+C:\Users\viktor.mrakota\source\repos\domaciukol\domaciukol\bin\Debug\net6.0\domaciukol.runtimeconfig.json
+C:\Users\viktor.mrakota\source\repos\domaciukol\domaciukol\bin\Debug\net6.0\domaciukol.dll
+C:\Users\viktor.mrakota\source\repos\domaciukol\domaciukol\bin\Debug\net6.0\domaciukol.pdb
+C:\Users\viktor.mrakota\source\repos\domaciukol\domaciukol\obj\Debug\net6.0\domaciukol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viktor.mrakota\source\repos\domaciukol\domaciukol\obj\Debug\net6.0\domaciukol.AssemblyInfoInputs.cache
+C:\Users\viktor.mrakota\source\repos\domaciukol\domaciukol\obj\Debug\net6.0\domaciukol.AssemblyInfo.cs
+C:\Users\viktor.mrakota\source\repos\domaciukol\domaciukol\obj\Debug\net6.0\domaciukol.csproj.CoreCompileInputs.cache
+C:\Users\viktor.mrakota\source\repos\domaciukol\domaciukol\obj\Debug\net6.0\domaciukol.dll
+C:\Users\viktor.mrakota\source\repos\domaciukol\domaciukol\obj\Debug\net6.0\refint\domaciukol.dll
+C:\Users\viktor.mrakota\source\repos\domaciukol\domaciukol\obj\Debug\net6.0\domaciukol.pdb
+C:\Users\viktor.mrakota\source\repos\domaciukol\domaciukol\obj\Debug\net6.0\domaciukol.genruntimeconfig.cache
+C:\Users\viktor.mrakota\source\repos\domaciukol\domaciukol\obj\Debug\net6.0\ref\domaciukol.dll
