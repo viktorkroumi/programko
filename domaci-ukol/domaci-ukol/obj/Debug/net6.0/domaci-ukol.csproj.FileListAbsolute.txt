@@ -1,0 +1,14 @@
+C:\Users\viktor.mrakota\source\repos\domaci-ukol\domaci-ukol\bin\Debug\net6.0\domaci-ukol.exe
+C:\Users\viktor.mrakota\source\repos\domaci-ukol\domaci-ukol\bin\Debug\net6.0\domaci-ukol.deps.json
+C:\Users\viktor.mrakota\source\repos\domaci-ukol\domaci-ukol\bin\Debug\net6.0\domaci-ukol.runtimeconfig.json
+C:\Users\viktor.mrakota\source\repos\domaci-ukol\domaci-ukol\bin\Debug\net6.0\domaci-ukol.dll
+C:\Users\viktor.mrakota\source\repos\domaci-ukol\domaci-ukol\bin\Debug\net6.0\domaci-ukol.pdb
+C:\Users\viktor.mrakota\source\repos\domaci-ukol\domaci-ukol\obj\Debug\net6.0\domaci-ukol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viktor.mrakota\source\repos\domaci-ukol\domaci-ukol\obj\Debug\net6.0\domaci-ukol.AssemblyInfoInputs.cache
+C:\Users\viktor.mrakota\source\repos\domaci-ukol\domaci-ukol\obj\Debug\net6.0\domaci-ukol.AssemblyInfo.cs
+C:\Users\viktor.mrakota\source\repos\domaci-ukol\domaci-ukol\obj\Debug\net6.0\domaci-ukol.csproj.CoreCompileInputs.cache
+C:\Users\viktor.mrakota\source\repos\domaci-ukol\domaci-ukol\obj\Debug\net6.0\domaci-ukol.dll
+C:\Users\viktor.mrakota\source\repos\domaci-ukol\domaci-ukol\obj\Debug\net6.0\refint\domaci-ukol.dll
+C:\Users\viktor.mrakota\source\repos\domaci-ukol\domaci-ukol\obj\Debug\net6.0\domaci-ukol.pdb
+C:\Users\viktor.mrakota\source\repos\domaci-ukol\domaci-ukol\obj\Debug\net6.0\domaci-ukol.genruntimeconfig.cache
+C:\Users\viktor.mrakota\source\repos\domaci-ukol\domaci-ukol\obj\Debug\net6.0\ref\domaci-ukol.dll
