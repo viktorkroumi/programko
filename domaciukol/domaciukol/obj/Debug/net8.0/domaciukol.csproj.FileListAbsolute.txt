@@ -1,0 +1,4 @@
+C:\Users\Doma2\source\repos\domaciukol\domaciukol\obj\Debug\net8.0\domaciukol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doma2\source\repos\domaciukol\domaciukol\obj\Debug\net8.0\domaciukol.AssemblyInfoInputs.cache
+C:\Users\Doma2\source\repos\domaciukol\domaciukol\obj\Debug\net8.0\domaciukol.AssemblyInfo.cs
+C:\Users\Doma2\source\repos\domaciukol\domaciukol\obj\Debug\net8.0\domaciukol.csproj.CoreCompileInputs.cache
