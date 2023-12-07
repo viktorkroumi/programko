@@ -1,10 +1,4 @@
-﻿using System;
-
-class Program
-{
-    static void Main()
-    {
-        string[] moznosti = { "čtverec", "obdélník", "kruh", "krychle", "kvádr", "koule", "kužel", "trojúhelník" };
+string[] moznosti = { "čtverec", "obdélník", "kruh", "krychle", "kvádr", "koule", "kužel", "trojúhelník" };
 
         while (true)
         {
@@ -57,7 +51,6 @@ class Program
         }
 
         Console.WriteLine("Program byl ukončen.");
-    }
 
     static void vypismoznosti(string[] tvary)
     {
@@ -339,4 +332,3 @@ class Program
             }
         }
     }
-}
