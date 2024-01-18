@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\autoskola\autoskola\bin\Debug\net8.0\autoskola.exe
+C:\Users\DELL\source\repos\autoskola\autoskola\bin\Debug\net8.0\questions.data
+C:\Users\DELL\source\repos\autoskola\autoskola\bin\Debug\net8.0\autoskola.deps.json
+C:\Users\DELL\source\repos\autoskola\autoskola\bin\Debug\net8.0\autoskola.runtimeconfig.json
+C:\Users\DELL\source\repos\autoskola\autoskola\bin\Debug\net8.0\autoskola.dll
+C:\Users\DELL\source\repos\autoskola\autoskola\bin\Debug\net8.0\autoskola.pdb
+C:\Users\DELL\source\repos\autoskola\autoskola\obj\Debug\net8.0\autoskola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\autoskola\autoskola\obj\Debug\net8.0\autoskola.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\autoskola\autoskola\obj\Debug\net8.0\autoskola.AssemblyInfo.cs
+C:\Users\DELL\source\repos\autoskola\autoskola\obj\Debug\net8.0\autoskola.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\autoskola\autoskola\obj\Debug\net8.0\autoskola.dll
+C:\Users\DELL\source\repos\autoskola\autoskola\obj\Debug\net8.0\refint\autoskola.dll
+C:\Users\DELL\source\repos\autoskola\autoskola\obj\Debug\net8.0\autoskola.pdb
+C:\Users\DELL\source\repos\autoskola\autoskola\obj\Debug\net8.0\autoskola.genruntimeconfig.cache
+C:\Users\DELL\source\repos\autoskola\autoskola\obj\Debug\net8.0\ref\autoskola.dll
